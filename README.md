@@ -5,6 +5,8 @@
 2. [Installing](#installing)
 3. [Getting Started](#getting-started)
 4. [Screenshots](#screenshots)
+  * [Library](#library)
+  * [Settings](#settings)
 5. [Notice](#notice)
 
 ## What is this?
