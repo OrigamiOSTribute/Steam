@@ -10,7 +10,7 @@
 5. [Notice](#notice)
 
 ## What is this?
-This is a proof-of-concept for a steam client based upon the design from mrtomone (linked above). Only the library view was shown in the concepts so the others pages were (noticeable) designed by me :D
+This is a proof-of-concept for a Steam client based upon the design from mrtomone (linked above). Only the library view was shown in the concepts so the others pages were (noticeable) designed by me :D
 
 There are some things this can't do because of API limitations. For example, you can't see your current wallet balance outside of the store. Unfortunately this still requires Steam to be installed and running (If it isn't this will launch it when starting a game) because Steam games can't be launch without the Steam client.
 
@@ -18,8 +18,8 @@ There are some things this can't do because of API limitations. For example, you
 **TODO: Make instructions :)**
 
 ## Getting Started
-- The first time you launch the client, you will need to connect your steam account. Simply follow the instructions provided in the client to do so.
-- After you have done that it may take a while for all your data to become available. Whilst you are waiting for that, head into the settings, click the `Downloads` tab, and add all the directories where your steam games are installed.
+- The first time you launch the client, you will need to connect your Steam account. Simply follow the instructions provided in the client to do so.
+- After you have done that it may take a while for all your data to become available. Whilst you are waiting for that, head into the settings, click the `Downloads` tab, and add all the directories where your Steam games are installed.
 - **NOTE: You have to add at least one directory that has the `steam.exe` executable in it. (For example, if your `steam.exe` is located at `C:\Program Files\Steam\steam.exe` you should add the `C:\Program Files\Steam` directory)**
 - **NOTE: Do not add the `steamapps/common` directory. Instead, simply add the `Steam` directory which contains the sub-directories `steamapps/common`**
 
