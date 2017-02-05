@@ -21,6 +21,9 @@ There are some things this can't do because of API limitations. For example, you
 - **NOTE: You have to add at least one directory that has the `steam.exe` executable in it. (For example, if your `steam.exe` is located at `C:\Program Files\Steam\steam.exe` you should add the `C:\Program Files\Steam` directory)**
 - **NOTE: Do not add the `steamapps/common` directory. Instead, simply add the `Steam` directory which contains the sub-directories `steamapps/common`**
 
+## Screenshots
+![Library View 1](./screenshots/library-001.png)
+
 ## Notice
 Any and all data is provided as is and without guarantee. We may collect and store personal information about you and/or your associates to make your experience better. This includes, but is not limited to, storing it in a database or by using caching technology.
 
