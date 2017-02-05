@@ -1,11 +1,11 @@
 # Steam - OrigamiOS Tribute
 ###### Original concept by [mrtomone](http://mrtomone.deviantart.com/) can be found [here](http://www.deviantart.com/art/Origami-OS-2-4-2-Concept-Update-556728058) (Redirects to appropriate DeviantArt pages)
 
-1. [What is this?](#what-is-this?)
-2. Installing
-3. Getting Started
-4. Screenshots
-5. Notice
+1. [What is this?](#what-is-this)
+2. [Installing](#installing)
+3. [Getting Started](#getting-started)
+4. [Screenshots](#screenshots)
+5. [Notice](#notice)
 
 ## What is this?
 This is a proof-of-concept for a steam client based upon the design from mrtomone (linked above). Only the library view was shown in the concepts so the others pages were (noticeable) designed by me :D
