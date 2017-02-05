@@ -49,4 +49,6 @@ There are some things this can't do because of API limitations. For example, you
 ## Notice
 Any and all data is provided as is and without guarantee. We may collect and store personal information about you and/or your associates to make your experience better. This includes, but is not limited to, storing it in a database or by using caching technology.
 
+All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them. 
+
 [Privacy Policy](./public/privacy_policy.html)
