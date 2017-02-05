@@ -22,9 +22,26 @@ There are some things this can't do because of API limitations. For example, you
 - **NOTE: Do not add the `steamapps/common` directory. Instead, simply add the `Steam` directory which contains the sub-directories `steamapps/common`**
 
 ## Screenshots
+#### Library
 <details>
-<summary>Library View 1</summary>
-![Library View 1](./screenshots/library-001.png)
+<summary>Library 1</summary>
+![Library 1](./screenshots/library-001.png)
+</details>
+
+<details>
+<summary>Library 2</summary>
+![Library 2](./screenshots/library-002.png)
+</details>
+
+<details>
+<summary>Library 3</summary>
+![Library 3](./screenshots/library-003.png)
+</details>
+
+#### Settings
+<details>
+<summary>Settings 1</summary>
+![Settings 1](./screenshots/settings-001.png)
 </details>
 
 ## Notice
