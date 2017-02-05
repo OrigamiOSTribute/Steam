@@ -22,7 +22,10 @@ There are some things this can't do because of API limitations. For example, you
 - **NOTE: Do not add the `steamapps/common` directory. Instead, simply add the `Steam` directory which contains the sub-directories `steamapps/common`**
 
 ## Screenshots
+<details>
+<summary>Library View 1</summary>
 ![Library View 1](./screenshots/library-001.png)
+</details>
 
 ## Notice
 Any and all data is provided as is and without guarantee. We may collect and store personal information about you and/or your associates to make your experience better. This includes, but is not limited to, storing it in a database or by using caching technology.
